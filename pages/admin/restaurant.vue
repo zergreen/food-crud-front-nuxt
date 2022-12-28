@@ -17,7 +17,7 @@
       <button
         class="bg-red-800 m-2 hover:bg-red-900 text-white py-1 px-3 rounded"
       >
-        <a href="/admin/deleterestaurant"> Delete - </a>
+        <a href="/admin/deleterestaurant"><i class="bi bi-trash"/>DELETE</a>
       </button>
       
       <button
