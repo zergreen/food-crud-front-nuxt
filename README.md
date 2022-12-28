@@ -1,3 +1,14 @@
+# food-crud-front-nuxt
+รู้อยู่ไม่พูดเยอะ
+```
+yarn # ติดตั้งแพคเกต
+yarn run green # เปิด backend เทียม
+yarn run dev # เปิด frontend
+```
+
+# demo
+null
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
